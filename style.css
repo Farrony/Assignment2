@@ -1,0 +1,79 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.header_area{
+	height: 128px;
+	background: #3B5997;
+}
+.header_area img{
+	height: 128px;
+	margin-left: 131px;
+}
+label{
+	color: white;
+	margin-right: 72px;
+}
+.logo{
+	
+	width: 50%;
+	float: left;
+	/*background-size: cover;*/
+	height: 100%;
+}
+.login{
+	margin-top: 30px;
+	width: 40%;
+	float: right;
+}
+.main_area{
+			/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fefeff+0,d4d8e8+100 */
+		background: #fefeff; /* Old browsers */
+		background: -moz-linear-gradient(top,  #fefeff 0%, #d4d8e8 100%); /* FF3.6-15 */
+		background: -webkit-linear-gradient(top,  #fefeff 0%,#d4d8e8 100%); /* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(to bottom,  #fefeff 0%,#d4d8e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefeff', endColorstr='#d4d8e8',GradientType=0 ); /* IE6-9 */
+			height: 700px;
+			/*width: auto; */
+}
+.image_area{
+
+	width: 50%;
+	float: left;
+	padding: 30px;
+}
+..image_area h2{
+	margin-left: 20px;
+}
+.form_area{
+	width: 40%;
+	float: right;	
+}
+.main_form{
+
+}
+.main_form input{
+	width: 60%;
+	margin-bottom: 10px;
+	height: 30px;
+}
+#btn2{
+	color: white;
+	background: #6FAD5A;
+	padding: 10px 20px;
+	border: 1px solid black;
+	font-size: 16px;
+	font-weight: bold;
+	border-radius: 6px;
+	cursor: pointer;
+}
+input{
+	border-radius: 4px;
+	border:1px solid #999999
+}
+.fn{
+	font-size: large;
+}
+#btn{
+	cursor: pointer;
+}
